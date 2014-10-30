@@ -18,7 +18,7 @@ Compatible-Versions:
 - 0.2.14
 - 0.2.15
 - 0.2.16
-Cartridge-Vendor: redhat
+Cartridge-Vendor: wyy
 License: GPL
 Vendor: Oracle
 Categories:
@@ -69,3 +69,5 @@ Version-Overrides:
     - mysql-5.1
     - mysql
     - mysql-singleton-master
+Install-Build-Required: false
+Source-Url: https://github.com/yanywang/mysqlose2.2.git
